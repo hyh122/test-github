@@ -11,13 +11,7 @@ public class StringBufferTest {
 		 * StringBuffer(String str)
 		 * StringBuffer(CharSequence chars)
 		 */
-		/**
-<<<<<<< HEAD
-		 * second change
-=======
-		 * change
->>>>>>> 8740e7bf31f96bc5ceda7abdef7cdec3521cf428
-		 */
+
 		StringBuffer sb=new StringBuffer("hello");
 		
 		int capacity=sb.length();
